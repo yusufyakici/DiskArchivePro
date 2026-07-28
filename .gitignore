@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+venv/
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Build
+build/
+dist/
+
+# Database
+*.db
+*.sqlite3
+
+# Logs
+logs/*.log
+
+# Reports
+exports/*
+
+# Windows
+Thumbs.db
+Desktop.ini
